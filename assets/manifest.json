@@ -1,0 +1,1980 @@
+{
+ "npc/guard.png": {
+  "src": "1503034461-78849451670c209615d0762e53ebec13.jpg",
+  "rect": [
+   33,
+   68,
+   120,
+   202
+  ],
+  "method": "grabcut",
+  "size": [
+   149,
+   266
+  ],
+  "file": "npc/guard.png"
+ },
+ "npc/lefty.png": {
+  "src": "1503034463-2b7d791cd8b9ff9ad6280e79efda189b.jpg",
+  "rect": [
+   44,
+   60,
+   116,
+   190
+  ],
+  "method": "grabcut",
+  "size": [
+   118,
+   257
+  ],
+  "file": "npc/lefty.png"
+ },
+ "npc/gemma.png": {
+  "src": "1503034464-61be52442c9357f27659b63ecd1746d9.jpg",
+  "rect": [
+   54,
+   64,
+   126,
+   193
+  ],
+  "method": "grabcut",
+  "size": [
+   127,
+   245
+  ],
+  "file": "npc/gemma.png"
+ },
+ "npc/nissa.png": {
+  "src": "1503034465-34b2a1806e4edfc69a93ae8116f238e4.jpg",
+  "rect": [
+   54,
+   90,
+   108,
+   203
+  ],
+  "method": "grabcut",
+  "size": [
+   92,
+   208
+  ],
+  "file": "npc/nissa.png"
+ },
+ "npc/wiz.png": {
+  "src": "1503034465-84d2dc1e12023fefc3cd764d6dd0e08d.jpg",
+  "rect": [
+   26,
+   52,
+   142,
+   205
+  ],
+  "method": "grabcut",
+  "size": [
+   125,
+   238
+  ],
+  "file": "npc/wiz.png"
+ },
+ "npc/julius.png": {
+  "src": "1503034465-bb7085e400c151ddd3a75a77146c4933.jpg",
+  "rect": [
+   56,
+   82,
+   113,
+   214
+  ],
+  "method": "grabcut",
+  "size": [
+   103,
+   204
+  ],
+  "file": "npc/julius.png"
+ },
+ "npc/mrs_finch.png": {
+  "src": "1503034466-61ccbf432056b8825428edced7adab20.jpg",
+  "rect": [
+   54,
+   90,
+   119,
+   199
+  ],
+  "method": "grabcut",
+  "size": [
+   118,
+   172
+  ],
+  "file": "npc/mrs_finch.png"
+ },
+ "npc/crazy_man.png": {
+  "src": "1503034466-fa4e3f32f7cebef10e08b8139f9ec716.jpg",
+  "rect": [
+   48,
+   66,
+   123,
+   192
+  ],
+  "method": "grabcut",
+  "size": [
+   135,
+   244
+  ],
+  "file": "npc/crazy_man.png"
+ },
+ "npc/bandit_ghost.png": {
+  "src": "1503034467-06446adb47334ed531e373551db2465f.jpg",
+  "rect": [
+   62,
+   56,
+   134,
+   174
+  ],
+  "method": "grabcut",
+  "size": [
+   106,
+   202
+  ],
+  "file": "npc/bandit_ghost.png"
+ },
+ "npc/pile_of_bones.png": {
+  "src": "1503034467-c4a32f3a695439b5d5c952f747670cf5.jpg",
+  "rect": [
+   54,
+   100,
+   118,
+   148
+  ],
+  "method": "grabcut",
+  "size": [
+   92,
+   86
+  ],
+  "file": "npc/pile_of_bones.png"
+ },
+ "npc/hermes.png": {
+  "src": "1503034467-d1f3529c0066850f048809bbb9fea3e0.jpg",
+  "rect": [
+   37,
+   40,
+   110,
+   153
+  ],
+  "method": "grabcut",
+  "size": [
+   123,
+   228
+  ],
+  "file": "npc/hermes.png"
+ },
+ "npc/dirk.png": {
+  "src": "1503034468-61b66cb6b125c7a9199db4cf17564735.jpg",
+  "rect": [
+   50,
+   66,
+   124,
+   180
+  ],
+  "method": "grabcut",
+  "size": [
+   119,
+   202
+  ],
+  "file": "npc/dirk.png"
+ },
+ "npc/big_john.png": {
+  "src": "1503034468-e42b9e5f9daff0bd7e05149247bb4cc1.jpg",
+  "rect": [
+   40,
+   62,
+   107,
+   164
+  ],
+  "method": "grabcut",
+  "size": [
+   101,
+   176
+  ],
+  "file": "npc/big_john.png"
+ },
+ "npc/vincent.png": {
+  "src": "1503034469-1e01a6471f85e47d8a65fec0665789f6.jpg",
+  "rect": [
+   54,
+   78,
+   104,
+   174
+  ],
+  "method": "grabcut",
+  "size": [
+   81,
+   163
+  ],
+  "file": "npc/vincent.png"
+ },
+ "npc/dryad.png": {
+  "src": "1503034463-1710d97d921ef0fc57a72a3fdb052a23.jpg",
+  "rect": [
+   46,
+   6,
+   218,
+   320
+  ],
+  "method": "grabcut",
+  "size": [
+   329,
+   601
+  ],
+  "file": "npc/dryad.png"
+ },
+ "enemy/goblin_minion.png": {
+  "src": "1503034472-060ce2d70c2979bcc89314696599dd10.jpg",
+  "rect": [
+   44,
+   80,
+   119,
+   201
+  ],
+  "method": "grabcut",
+  "size": [
+   135,
+   173
+  ],
+  "file": "enemy/goblin_minion.png"
+ },
+ "enemy/ruffian.png": {
+  "src": "1503034474-622acc467a56c153fa881fb16ed9f494.jpg",
+  "rect": [
+   44,
+   88,
+   121,
+   216
+  ],
+  "method": "grabcut",
+  "size": [
+   133,
+   242
+  ],
+  "file": "enemy/ruffian.png"
+ },
+ "enemy/dervish.png": {
+  "src": "1503034475-abd63e1cc487b96ffd161bc71b733a7d.jpg",
+  "rect": [
+   51,
+   82,
+   113,
+   199
+  ],
+  "method": "grabcut",
+  "size": [
+   94,
+   219
+  ],
+  "file": "enemy/dervish.png"
+ },
+ "enemy/bandit.png": {
+  "src": "1503034476-22d578590549a01ed1906e2236fb5ecb.jpg",
+  "rect": [
+   47,
+   82,
+   126,
+   209
+  ],
+  "method": "grabcut",
+  "size": [
+   130,
+   203
+  ],
+  "file": "enemy/bandit.png"
+ },
+ "enemy/hooligan.png": {
+  "src": "1503034477-275d4c240c7ce4e67a569d517b8f2fd5.jpg",
+  "rect": [
+   0,
+   78,
+   121,
+   206
+  ],
+  "method": "grabcut",
+  "size": [
+   213,
+   231
+  ],
+  "file": "enemy/hooligan.png"
+ },
+ "enemy/goblin_guard.png": {
+  "src": "1503034479-ec93b8efa6bb78a5ffba35b16c9e0a41.jpg",
+  "rect": [
+   41,
+   76,
+   116,
+   203
+  ],
+  "method": "grabcut",
+  "size": [
+   124,
+   192
+  ],
+  "file": "enemy/goblin_guard.png"
+ },
+ "enemy/spiderling.png": {
+  "src": "1503034492-0608a65d1c28323f659bde9966b0530e.jpg",
+  "rect": [
+   37,
+   88,
+   99,
+   136
+  ],
+  "method": "grabcut",
+  "size": [
+   111,
+   83
+  ],
+  "file": "enemy/spiderling.png"
+ },
+ "enemy/grey_ooze.png": {
+  "src": "1503034501-89939916fa96e22cd84df03ad9fb37f6.jpg",
+  "rect": [
+   57,
+   120,
+   126,
+   213
+  ],
+  "method": "grabcut",
+  "size": [
+   100,
+   155
+  ],
+  "file": "enemy/grey_ooze.png"
+ },
+ "enemy/king_hobb.png": {
+  "src": "1503034481-d6ab157e36f71016f48fc97b1732d2eb.jpg",
+  "rect": [
+   0,
+   66,
+   101,
+   201
+  ],
+  "method": "grabcut",
+  "size": [
+   194,
+   216
+  ],
+  "file": "enemy/king_hobb.png"
+ },
+ "enemy/rock_eater.png": {
+  "src": "1503034495-45f93e56dbb6090b3f54f08e054331e7.jpg",
+  "rect": [
+   52,
+   80,
+   120,
+   140
+  ],
+  "method": "grabcut",
+  "size": [
+   94,
+   92
+  ],
+  "file": "enemy/rock_eater.png"
+ },
+ "enemy/stone_giant.png": {
+  "src": "1503034495-4f37b4db3cf3879cd67cd13b4e84d011.jpg",
+  "rect": [
+   28,
+   8,
+   142,
+   252
+  ],
+  "method": "grabcut",
+  "size": [
+   215,
+   468
+  ],
+  "file": "enemy/stone_giant.png"
+ },
+ "enemy/spider_queen.png": {
+  "src": "1503034487-054afe922851ed7579fd111dea919c56.jpg",
+  "rect": [
+   22,
+   22,
+   252,
+   222
+  ],
+  "method": "grabcut",
+  "size": [
+   432,
+   357
+  ],
+  "file": "enemy/spider_queen.png"
+ },
+ "enemy/xorn.png": {
+  "src": "1503034489-d7d8f53e376f8734d03689b4e8adf63f.jpg",
+  "rect": [
+   54,
+   58,
+   287,
+   312
+  ],
+  "method": "grabcut",
+  "size": [
+   458,
+   499
+  ],
+  "file": "enemy/xorn.png"
+ },
+ "obj/birch_tree.png": {
+  "src": "1503034484-ba8855887edb11a1505835cec66e49cd.jpg",
+  "rect": [
+   284,
+   76,
+   386,
+   234
+  ],
+  "method": "grabcut",
+  "size": [
+   184,
+   302
+  ],
+  "file": "obj/birch_tree.png"
+ },
+ "obj/purple_tree.png": {
+  "src": "1503034484-ba8855887edb11a1505835cec66e49cd.jpg",
+  "rect": [
+   354,
+   76,
+   450,
+   212
+  ],
+  "method": "grabcut",
+  "size": [
+   193,
+   253
+  ],
+  "file": "obj/purple_tree.png"
+ },
+ "obj/rock_pile.png": {
+  "src": "1503034484-ba8855887edb11a1505835cec66e49cd.jpg",
+  "rect": [
+   148,
+   106,
+   214,
+   153
+  ],
+  "method": "grabcut",
+  "size": [
+   95,
+   67
+  ],
+  "file": "obj/rock_pile.png"
+ },
+ "obj/sand_cliff.png": {
+  "src": "10080-l02.jpg",
+  "rect": [
+   268,
+   54,
+   500,
+   207
+  ],
+  "method": "grabcut",
+  "size": [
+   436,
+   290
+  ],
+  "file": "obj/sand_cliff.png"
+ },
+ "obj/sand_spire.png": {
+  "src": "10080-l08.jpg",
+  "rect": [
+   80,
+   58,
+   132,
+   130
+  ],
+  "method": "grabcut",
+  "size": [
+   94,
+   125
+  ],
+  "file": "obj/sand_spire.png"
+ },
+ "obj/tan_rock.png": {
+  "src": "1503034473-5e851f5b4f84cbdfa837bdfdf3488944.jpg",
+  "rect": [
+   47,
+   89,
+   97,
+   149
+  ],
+  "method": "grabcut",
+  "size": [
+   102,
+   109
+  ],
+  "file": "obj/tan_rock.png"
+ },
+ "obj/campfire.png": {
+  "src": "10080-l08.jpg",
+  "rect": [
+   261,
+   210,
+   307,
+   253
+  ],
+  "method": "grabcut",
+  "size": [
+   63,
+   60
+  ],
+  "file": "obj/campfire.png"
+ },
+ "obj/crate.png": {
+  "src": "1503034473-5e851f5b4f84cbdfa837bdfdf3488944.jpg",
+  "rect": [
+   89,
+   61,
+   121,
+   94
+  ],
+  "method": "grabcut",
+  "size": [
+   56,
+   60
+  ],
+  "file": "obj/crate.png"
+ },
+ "obj/chest.png": {
+  "src": "1503034473-5e851f5b4f84cbdfa837bdfdf3488944.jpg",
+  "rect": [
+   282,
+   145,
+   329,
+   197
+  ],
+  "method": "grabcut",
+  "size": [
+   81,
+   92
+  ],
+  "file": "obj/chest.png"
+ },
+ "obj/chest2.png": {
+  "src": "1503034480-06d137af22cd753c64bf086978140eb9.jpg",
+  "rect": [
+   225,
+   43,
+   271,
+   95
+  ],
+  "method": "grabcut",
+  "size": [
+   81,
+   90
+  ],
+  "file": "obj/chest2.png"
+ },
+ "obj/barrel.png": {
+  "src": "1503034480-06d137af22cd753c64bf086978140eb9.jpg",
+  "rect": [
+   270,
+   71,
+   306,
+   112
+  ],
+  "method": "grabcut",
+  "size": [
+   49,
+   56
+  ],
+  "file": "obj/barrel.png"
+ },
+ "obj/weaponsmith.png": {
+  "src": "10080-l03.jpg",
+  "rect": [
+   107,
+   97,
+   227,
+   219
+  ],
+  "method": "grabcut",
+  "size": [
+   232,
+   222
+  ],
+  "file": "obj/weaponsmith.png"
+ },
+ "obj/castle_tower.png": {
+  "src": "10080-l10.jpg",
+  "rect": [
+   361,
+   48,
+   453,
+   240
+  ],
+  "method": "grabcut",
+  "size": [
+   171,
+   248
+  ],
+  "file": "obj/castle_tower.png"
+ },
+ "obj/temple_ruins.png": {
+  "src": "1503034481-7e774e893c06c721771dd3ca678fc9c5.jpg",
+  "rect": [
+   44,
+   14,
+   218,
+   148
+  ],
+  "method": "grabcut",
+  "size": [
+   332,
+   212
+  ],
+  "file": "obj/temple_ruins.png"
+ },
+ "obj/rock_gate.png": {
+  "src": "1503034486-c2ce4734a2d11a58437a599fff883762.jpg",
+  "rect": [
+   128,
+   18,
+   312,
+   196
+  ],
+  "method": "grabcut",
+  "size": [
+   281,
+   256
+  ],
+  "file": "obj/rock_gate.png"
+ },
+ "obj/broken_bridge.png": {
+  "src": "1503034478-a82a5692f76a2ed1a91a142123c71acd.jpg",
+  "rect": [
+   114,
+   84,
+   322,
+   216
+  ],
+  "method": "grabcut",
+  "size": [
+   405,
+   247
+  ],
+  "file": "obj/broken_bridge.png"
+ },
+ "obj/scarecrow.png": {
+  "src": "1503034511-a95e06cfe089ffcca823dd877d0487a0.jpg",
+  "rect": [
+   38,
+   118,
+   72,
+   192
+  ],
+  "method": "grabcut",
+  "size": [
+   39,
+   111
+  ],
+  "file": "obj/scarecrow.png"
+ },
+ "obj/oak_tree.png": {
+  "src": "10080-l09.jpg",
+  "rect": [
+   434,
+   98,
+   528,
+   214
+  ],
+  "method": "grabcut",
+  "size": [
+   156,
+   215
+  ],
+  "file": "obj/oak_tree.png"
+ },
+ "obj/rat_nest.png": {
+  "src": "1503034510-2677e26a8b45734eb52f2f5dae5d015a.jpg",
+  "rect": [
+   28,
+   158,
+   208,
+   272
+  ],
+  "method": "grabcut",
+  "size": [
+   255,
+   201
+  ],
+  "file": "obj/rat_nest.png"
+ },
+ "tex/grass_home.jpg": {
+  "src": "1503034484-ba8855887edb11a1505835cec66e49cd.jpg",
+  "rect": [
+   5,
+   255,
+   140,
+   335
+  ],
+  "method": "tile",
+  "size": [
+   540,
+   320
+  ],
+  "file": "tex/grass_home.jpg"
+ },
+ "tex/grass_falls.jpg": {
+  "src": "10080-l08.jpg",
+  "rect": [
+   150,
+   192,
+   262,
+   252
+  ],
+  "method": "tile",
+  "size": [
+   448,
+   240
+  ],
+  "file": "tex/grass_falls.jpg"
+ },
+ "tex/flowers_ruins.jpg": {
+  "src": "1503034480-a4ffea39678f3bc81e1c55ec76f0d068.jpg",
+  "rect": [
+   160,
+   150,
+   276,
+   195
+  ],
+  "method": "tile",
+  "size": [
+   464,
+   180
+  ],
+  "file": "tex/flowers_ruins.jpg"
+ },
+ "tex/cave_floor.jpg": {
+  "src": "1503034486-c2ce4734a2d11a58437a599fff883762.jpg",
+  "rect": [
+   2,
+   165,
+   128,
+   270
+  ],
+  "method": "tile",
+  "size": [
+   504,
+   420
+  ],
+  "file": "tex/cave_floor.jpg"
+ },
+ "tex/cave_floor2.jpg": {
+  "src": "1503034516-c641be00991900570e839da622003bce.jpg",
+  "rect": [
+   200,
+   40,
+   300,
+   118
+  ],
+  "method": "tile",
+  "size": [
+   400,
+   312
+  ],
+  "file": "tex/cave_floor2.jpg"
+ },
+ "tex/cliff_brown.jpg": {
+  "src": "1503034473-5e851f5b4f84cbdfa837bdfdf3488944.jpg",
+  "rect": [
+   185,
+   5,
+   335,
+   120
+  ],
+  "method": "tile",
+  "size": [
+   600,
+   460
+  ],
+  "file": "tex/cliff_brown.jpg"
+ },
+ "tex/cliff_sand.jpg": {
+  "src": "10080-l02.jpg",
+  "rect": [
+   300,
+   40,
+   460,
+   140
+  ],
+  "method": "tile",
+  "size": [
+   640,
+   400
+  ],
+  "file": "tex/cliff_sand.jpg"
+ },
+ "tex/cave_wall.jpg": {
+  "src": "1503034486-c2ce4734a2d11a58437a599fff883762.jpg",
+  "rect": [
+   300,
+   60,
+   376,
+   200
+  ],
+  "method": "tile",
+  "size": [
+   304,
+   560
+  ],
+  "file": "tex/cave_wall.jpg"
+ },
+ "tex/soil.jpg": {
+  "src": "1503034511-a95e06cfe089ffcca823dd877d0487a0.jpg",
+  "rect": [
+   2,
+   172,
+   88,
+   248
+  ],
+  "method": "tile",
+  "size": [
+   344,
+   304
+  ],
+  "file": "tex/soil.jpg"
+ },
+ "tex/water.jpg": {
+  "src": "1503034478-a82a5692f76a2ed1a91a142123c71acd.jpg",
+  "rect": [
+   225,
+   112,
+   335,
+   132
+  ],
+  "method": "tile",
+  "size": [
+   440,
+   80
+  ],
+  "file": "tex/water.jpg"
+ },
+ "ui/class_warrior.jpg": {
+  "src": "10080-l01 (1).jpg",
+  "rect": [
+   52,
+   120,
+   179,
+   262
+  ],
+  "method": "crop",
+  "size": [
+   254,
+   284
+  ],
+  "file": "ui/class_warrior.jpg"
+ },
+ "ui/class_ranger.jpg": {
+  "src": "10080-l01 (1).jpg",
+  "rect": [
+   210,
+   120,
+   345,
+   262
+  ],
+  "method": "crop",
+  "size": [
+   270,
+   284
+  ],
+  "file": "ui/class_ranger.jpg"
+ },
+ "ui/class_wizard.jpg": {
+  "src": "10080-l01 (1).jpg",
+  "rect": [
+   378,
+   120,
+   506,
+   262
+  ],
+  "method": "crop",
+  "size": [
+   256,
+   284
+  ],
+  "file": "ui/class_wizard.jpg"
+ },
+ "ui/waterfall.jpg": {
+  "src": "10080-l08.jpg",
+  "rect": [
+   458,
+   165,
+   528,
+   268
+  ],
+  "method": "crop",
+  "size": [
+   140,
+   206
+  ],
+  "file": "ui/waterfall.jpg"
+ },
+ "portrait/lefty.png": {
+  "src": "1503034469-66dc1d63ba8bb546fdf6a000122d3e3c.jpg",
+  "circle": [
+   69,
+   68,
+   35
+  ],
+  "method": "circle",
+  "size": [
+   140,
+   140
+  ],
+  "file": "portrait/lefty.png"
+ },
+ "portrait/guard.png": {
+  "src": "1503034472-2538f0c037228237b75c85f36813e374.jpg",
+  "circle": [
+   67,
+   73,
+   35
+  ],
+  "method": "circle",
+  "size": [
+   140,
+   140
+  ],
+  "file": "portrait/guard.png"
+ },
+ "portrait/wiz.png": {
+  "src": "1503034477-5e2d28dcc3e60efe4a42a10d7d88c6af.jpg",
+  "circle": [
+   64,
+   69,
+   34
+  ],
+  "method": "circle",
+  "size": [
+   136,
+   136
+  ],
+  "file": "portrait/wiz.png"
+ },
+ "portrait/gemma.png": {
+  "src": "1503034491-125aad7cb8e1859e97a2d7d6b72d06f8.jpg",
+  "circle": [
+   65,
+   68,
+   32
+  ],
+  "method": "circle",
+  "size": [
+   128,
+   128
+  ],
+  "file": "portrait/gemma.png"
+ },
+ "portrait/dryad.png": {
+  "src": "1503034496-65fec771ba1b896b78ecf6745953f4a6.jpg",
+  "circle": [
+   67,
+   70,
+   35
+  ],
+  "method": "circle",
+  "size": [
+   140,
+   140
+  ],
+  "file": "portrait/dryad.png"
+ },
+ "portrait/nissa.png": {
+  "src": "1503034502-ef45df14690d1be7e7f8ad3d9eec5730.jpg",
+  "circle": [
+   64,
+   65,
+   35
+  ],
+  "method": "circle",
+  "size": [
+   140,
+   140
+  ],
+  "file": "portrait/nissa.png"
+ },
+ "portrait/julius.png": {
+  "src": "1503034504-6173acb4f041f8a2394c3b8ab2af5119.jpg",
+  "circle": [
+   76,
+   68,
+   34
+  ],
+  "method": "circle",
+  "size": [
+   136,
+   136
+  ],
+  "file": "portrait/julius.png"
+ },
+ "portrait/vincent.png": {
+  "src": "1503034505-16dad2c6a8d38389a2820d8df4e1325e.jpg",
+  "circle": [
+   65,
+   73,
+   35
+  ],
+  "method": "circle",
+  "size": [
+   140,
+   140
+  ],
+  "file": "portrait/vincent.png"
+ },
+ "portrait/mrs_finch.png": {
+  "src": "1503034507-906cc9a42a79e6323618d0853dff0454.jpg",
+  "circle": [
+   65,
+   68,
+   35
+  ],
+  "method": "circle",
+  "size": [
+   140,
+   140
+  ],
+  "file": "portrait/mrs_finch.png"
+ },
+ "portrait/crazy_man.png": {
+  "src": "1503034510-27c511c2537a9e7c881ade199780fa32.jpg",
+  "circle": [
+   65,
+   68,
+   32
+  ],
+  "method": "circle",
+  "size": [
+   128,
+   128
+  ],
+  "file": "portrait/crazy_man.png"
+ },
+ "portrait/bandit_ghost.png": {
+  "src": "1503034514-0a242669d2b2affd3d3756a6ce722830.jpg",
+  "circle": [
+   65,
+   67,
+   35
+  ],
+  "method": "circle",
+  "size": [
+   140,
+   140
+  ],
+  "file": "portrait/bandit_ghost.png"
+ },
+ "portrait/hermes.png": {
+  "src": "1503034514-dad7811aae06635a012cfb1d0f8e00a3.jpg",
+  "circle": [
+   67,
+   74,
+   35
+  ],
+  "method": "circle",
+  "size": [
+   140,
+   140
+  ],
+  "file": "portrait/hermes.png"
+ },
+ "portrait/dirk.png": {
+  "src": "1503034517-8b1aa04e7702528837194803927efc76.jpg",
+  "circle": [
+   68,
+   61,
+   35
+  ],
+  "method": "circle",
+  "size": [
+   140,
+   140
+  ],
+  "file": "portrait/dirk.png"
+ },
+ "portrait/big_john.png": {
+  "src": "1503034519-c22018081c0156eb908a804a6c0aa534.jpg",
+  "circle": [
+   74,
+   64,
+   35
+  ],
+  "method": "circle",
+  "size": [
+   140,
+   140
+  ],
+  "file": "portrait/big_john.png"
+ },
+ "ui/portal_disc.jpg": {
+  "src": "1503034483-007baf7cb99359ab67531adf8fbe8ebc.jpg",
+  "rect": [
+   30,
+   42,
+   280,
+   296
+  ],
+  "method": "crop+socket-patch",
+  "size": [
+   500,
+   508
+  ],
+  "file": "ui/portal_disc.jpg"
+ },
+ "item/essence_hobb.png": {
+  "src": "1503034483-007baf7cb99359ab67531adf8fbe8ebc.jpg",
+  "method": "grabcut",
+  "file": "item/essence_hobb.png"
+ },
+ "item/essence_xorn.png": {
+  "src": "1503034483-007baf7cb99359ab67531adf8fbe8ebc.jpg",
+  "method": "grabcut",
+  "file": "item/essence_xorn.png"
+ },
+ "item/essence_unknown.png": {
+  "src": "1503034483-007baf7cb99359ab67531adf8fbe8ebc.jpg",
+  "method": "grabcut",
+  "file": "item/essence_unknown.png"
+ },
+ "item/wood.png": {
+  "src": "1503034470-c7c5a769c90404f0ccb36d0e7d042c2d.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   77,
+   61
+  ],
+  "file": "item/wood.png"
+ },
+ "item/meat.png": {
+  "src": "1503034473-6c4d865ead83169647d6231a7cd2349d.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   69,
+   54
+  ],
+  "file": "item/meat.png"
+ },
+ "item/water.png": {
+  "src": "1503034473-6c4d865ead83169647d6231a7cd2349d.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   60,
+   67
+  ],
+  "file": "item/water.png"
+ },
+ "item/rope.png": {
+  "src": "1503034477-5e2d28dcc3e60efe4a42a10d7d88c6af.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   81,
+   58
+  ],
+  "file": "item/rope.png"
+ },
+ "item/hot_ember.png": {
+  "src": "1503034479-40bbf4ef7bc0be0242e89f6a354ece29.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   74,
+   61
+  ],
+  "file": "item/hot_ember.png"
+ },
+ "item/torch.png": {
+  "src": "1503034479-40bbf4ef7bc0be0242e89f6a354ece29.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   52,
+   77
+  ],
+  "file": "item/torch.png"
+ },
+ "item/sapphire.png": {
+  "src": "1503034493-9f6910c27eb1d8d5ccc92778548b91d1.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   64,
+   64
+  ],
+  "file": "item/sapphire.png"
+ },
+ "item/old_barn.png": {
+  "src": "1503034493-9f6910c27eb1d8d5ccc92778548b91d1.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   81,
+   68
+  ],
+  "file": "item/old_barn.png"
+ },
+ "item/slime.png": {
+  "src": "1503034496-200a0f2be96a9f37ecf92e8478e306a1.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   80,
+   70
+  ],
+  "file": "item/slime.png"
+ },
+ "item/larva_egg.png": {
+  "src": "1503034496-200a0f2be96a9f37ecf92e8478e306a1.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   83,
+   71
+  ],
+  "file": "item/larva_egg.png"
+ },
+ "item/blood.png": {
+  "src": "1503034496-65fec771ba1b896b78ecf6745953f4a6.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   30,
+   48
+  ],
+  "file": "item/blood.png"
+ },
+ "item/hair.png": {
+  "src": "1503034496-65fec771ba1b896b78ecf6745953f4a6.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   86,
+   81
+  ],
+  "file": "item/hair.png"
+ },
+ "item/farm_plot.png": {
+  "src": "1503034497-8028703fa7c40d65a343450e03b9de97.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   78,
+   44
+  ],
+  "file": "item/farm_plot.png"
+ },
+ "item/strawberry.png": {
+  "src": "1503034497-8028703fa7c40d65a343450e03b9de97.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   65,
+   72
+  ],
+  "file": "item/strawberry.png"
+ },
+ "item/kill.png": {
+  "src": "1503034501-8e15bc37cb9c4514ae9f078baed5351f.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   59,
+   75
+  ],
+  "file": "item/kill.png"
+ },
+ "item/purified_acid.png": {
+  "src": "1503034501-8e15bc37cb9c4514ae9f078baed5351f.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   57,
+   60
+  ],
+  "file": "item/purified_acid.png"
+ },
+ "item/golden_silk.png": {
+  "src": "1503034502-42edcb346830a34a5577ea9370ef0884.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   80,
+   45
+  ],
+  "file": "item/golden_silk.png"
+ },
+ "item/fur.png": {
+  "src": "1503034507-906cc9a42a79e6323618d0853dff0454.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   78,
+   61
+  ],
+  "file": "item/fur.png"
+ },
+ "item/family_crest.png": {
+  "src": "1503034472-2538f0c037228237b75c85f36813e374.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   73,
+   60
+  ],
+  "file": "item/family_crest.png"
+ },
+ "item/journal.png": {
+  "src": "1503034515-06fed401ff2efac6efcbfa82f471ab70.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   61,
+   79
+  ],
+  "file": "item/journal.png"
+ },
+ "item/mandrake_seed.png": {
+  "src": "1503034499-508afe22127c039c080b1e5d087ccee0.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   79,
+   65
+  ],
+  "file": "item/mandrake_seed.png"
+ },
+ "item/mandrake_root.png": {
+  "src": "1503034499-508afe22127c039c080b1e5d087ccee0.jpg",
+  "rect": [
+   40,
+   173,
+   88,
+   217
+  ],
+  "method": "colorkey",
+  "size": [
+   78,
+   63
+  ],
+  "file": "item/mandrake_root.png"
+ },
+ "item/tunic.png": {
+  "src": "1503034504-0e7241342f4a21201d5369659cf984d6.jpg",
+  "rect": [
+   40,
+   114,
+   88,
+   158
+  ],
+  "method": "colorkey",
+  "size": [
+   73,
+   75
+  ],
+  "file": "item/tunic.png"
+ },
+ "player/warrior.png": {
+  "src": "10080-l01 (1).jpg",
+  "rect": [
+   60,
+   124,
+   158,
+   254
+  ],
+  "method": "black-key",
+  "size": [
+   170,
+   259
+  ],
+  "note": "trimmed at the grass line; lower legs partly hidden in the original art",
+  "file": "player/warrior.png"
+ },
+ "player/ranger.png": {
+  "src": "10080-l01 (1).jpg",
+  "rect": [
+   218,
+   146,
+   306,
+   254
+  ],
+  "method": "black-key",
+  "size": [
+   167,
+   207
+  ],
+  "note": "trimmed at the grass line; lower legs partly hidden in the original art",
+  "file": "player/ranger.png"
+ },
+ "player/wizard.png": {
+  "src": "10080-l01 (1).jpg",
+  "rect": [
+   378,
+   150,
+   476,
+   254
+  ],
+  "method": "black-key",
+  "size": [
+   195,
+   204
+  ],
+  "note": "trimmed at the grass line; lower legs partly hidden in the original art",
+  "file": "player/wizard.png"
+ },
+ "npc/prisoner1.png": {
+  "src": "second/1503034333-1c1bb0688e1f322f6a3669932a84e664.jpg",
+  "rect": [
+   52,
+   76,
+   120,
+   184
+  ],
+  "method": "grabcut",
+  "file": "npc/prisoner1.png"
+ },
+ "npc/dwarven_tradesman.png": {
+  "src": "second/1503034333-2553d09899c7522d91b4f78b8c128762.jpg",
+  "rect": [
+   84,
+   92,
+   142,
+   182
+  ],
+  "method": "grabcut",
+  "file": "npc/dwarven_tradesman.png"
+ },
+ "npc/hermit.png": {
+  "src": "second/1503034333-5a2f6bfa6adf5f5be7279daca0681bf4.jpg",
+  "rect": [
+   58,
+   68,
+   122,
+   188
+  ],
+  "method": "grabcut",
+  "file": "npc/hermit.png"
+ },
+ "enemy/trolldad.png": {
+  "src": "second/1503034334-fa8f8cf9456c3853be81c13ee00e6ec4.jpg",
+  "rect": [
+   22,
+   98,
+   148,
+   214
+  ],
+  "method": "grabcut",
+  "file": "enemy/trolldad.png"
+ },
+ "enemy/yeti.png": {
+  "src": "second/1503034337-f14525a68aef7f83323029203e483a5d.jpg",
+  "rect": [
+   32,
+   84,
+   142,
+   224
+  ],
+  "method": "grabcut",
+  "file": "enemy/yeti.png"
+ },
+ "enemy/frost_giant.png": {
+  "src": "second/1503034338-ca9c53b632e47a8b1792dea461bc93d9.jpg",
+  "rect": [
+   38,
+   8,
+   172,
+   262
+  ],
+  "method": "grabcut",
+  "file": "enemy/frost_giant.png"
+ },
+ "enemy/frost_king.png": {
+  "src": "second/1503034340-3ab632a15cbb381a8188dcf750e82772.jpg",
+  "rect": [
+   4,
+   18,
+   142,
+   246
+  ],
+  "method": "grabcut",
+  "file": "enemy/frost_king.png"
+ },
+ "enemy/troll_fighter.png": {
+  "src": "second/1503034342-a44cb5e4f0cf37fa9467264b5c945099.jpg",
+  "rect": [
+   52,
+   84,
+   128,
+   212
+  ],
+  "method": "grabcut",
+  "file": "enemy/troll_fighter.png"
+ },
+ "enemy/trollkin.png": {
+  "src": "second/1503034342-dcbdb015f017f6850c54cbd076fae2e1.jpg",
+  "rect": [
+   42,
+   106,
+   98,
+   206
+  ],
+  "method": "grabcut",
+  "file": "enemy/trollkin.png"
+ },
+ "enemy/troll_mundunugu.png": {
+  "src": "second/1503034343-545f5683f1f3a790877d91a5cf228ace.jpg",
+  "rect": [
+   62,
+   54,
+   138,
+   210
+  ],
+  "method": "grabcut",
+  "file": "enemy/troll_mundunugu.png"
+ },
+ "enemy/troll_berserker.png": {
+  "src": "second/1503034344-ad6f2ee5ad982ebec65baf90dd45678f.jpg",
+  "rect": [
+   62,
+   76,
+   132,
+   206
+  ],
+  "method": "grabcut",
+  "file": "enemy/troll_berserker.png"
+ },
+ "enemy/ettin_hurler.png": {
+  "src": "second/1503034345-5704919f4386dddec8ca58015e02376d.jpg",
+  "rect": [
+   18,
+   20,
+   128,
+   206
+  ],
+  "method": "grabcut",
+  "file": "enemy/ettin_hurler.png"
+ },
+ "enemy/evil_dwarf.png": {
+  "src": "second/1503034345-aa6bc7e44dfdec56c821b15fab3c1a01.jpg",
+  "rect": [
+   38,
+   108,
+   98,
+   196
+  ],
+  "method": "grabcut",
+  "file": "enemy/evil_dwarf.png"
+ },
+ "enemy/ettin_crusher.png": {
+  "src": "second/1503034346-cb0aaa142b50ccdd51a331377da3765a.jpg",
+  "rect": [
+   36,
+   38,
+   128,
+   193
+  ],
+  "method": "grabcut",
+  "file": "enemy/ettin_crusher.png"
+ },
+ "enemy/ettin_guardsman.png": {
+  "src": "second/1503034346-9a646a6b5097dadf558990234595f5ce.jpg",
+  "rect": [
+   42,
+   40,
+   152,
+   193
+  ],
+  "method": "grabcut",
+  "file": "enemy/ettin_guardsman.png"
+ },
+ "enemy/wolf.png": {
+  "src": "second/1503034348-1ea9d2efe9c898c863f9b90a32f5c3f4.jpg",
+  "rect": [
+   38,
+   92,
+   132,
+   152
+  ],
+  "method": "grabcut",
+  "file": "enemy/wolf.png"
+ },
+ "enemy/dire_wolf.png": {
+  "src": "second/1503034349-eab110f9c400d2172908c9a20245a296.jpg",
+  "rect": [
+   38,
+   52,
+   128,
+   152
+  ],
+  "method": "grabcut",
+  "file": "enemy/dire_wolf.png"
+ },
+ "obj/ice_castle.png": {
+  "src": "second/1503034352-1fc95fc149ea5f5806e1163487f2a309.jpg",
+  "rect": [
+   112,
+   2,
+   314,
+   180
+  ],
+  "method": "grabcut",
+  "file": "obj/ice_castle.png"
+ },
+ "obj/alpen_horn.png": {
+  "src": "second/1503034336-a6c7b5455e881b29c2690fcaa7a85a95.jpg",
+  "rect": [
+   22,
+   8,
+   92,
+   126
+  ],
+  "method": "grabcut",
+  "file": "obj/alpen_horn.png"
+ },
+ "obj/skeleton_ice_block.png": {
+  "src": "second/1503034351-e24692f5420e8906f3bb134d874d8c7b.jpg",
+  "rect": [
+   58,
+   8,
+   148,
+   136
+  ],
+  "method": "grabcut",
+  "file": "obj/skeleton_ice_block.png"
+ },
+ "obj/cage.png": {
+  "src": "second/1503034354-7da7c047165a5dfdcf5d6ecf85593ac5.jpg",
+  "rect": [
+   56,
+   84,
+   110,
+   200
+  ],
+  "method": "grabcut",
+  "file": "obj/cage.png"
+ },
+ "obj/large_crate.png": {
+  "src": "second/1503034366-ab1be0ae8b5aec5e5cac608fef450ce1.jpg",
+  "rect": [
+   20,
+   112,
+   62,
+   147
+  ],
+  "method": "grabcut",
+  "file": "obj/large_crate.png"
+ },
+ "obj/dead_tree.png": {
+  "src": "second/1503034336-c02431b91093743d84009099d617f5ec.jpg",
+  "rect": [
+   188,
+   2,
+   286,
+   92
+  ],
+  "method": "grabcut",
+  "file": "obj/dead_tree.png"
+ },
+ "obj/ice_pillar.png": {
+  "src": "second/1503034336-c02431b91093743d84009099d617f5ec.jpg",
+  "rect": [
+   178,
+   154,
+   262,
+   292
+  ],
+  "method": "grabcut",
+  "file": "obj/ice_pillar.png"
+ },
+ "tex/snow.jpg": {
+  "src": "second/1503034336-c02431b91093743d84009099d617f5ec.jpg",
+  "rect": [
+   116,
+   110,
+   284,
+   146
+  ],
+  "method": "tile",
+  "file": "tex/snow.jpg"
+ },
+ "tex/castle_floor.jpg": {
+  "src": "second/1503034366-ab1be0ae8b5aec5e5cac608fef450ce1.jpg",
+  "rect": [
+   158,
+   182,
+   232,
+   205
+  ],
+  "method": "tile",
+  "file": "tex/castle_floor.jpg"
+ },
+ "portrait/hermit.png": {
+  "src": "second/1503034349-f28aa125adb168b2091b37477a551586.jpg",
+  "circle": [
+   65,
+   70,
+   35
+  ],
+  "method": "circle",
+  "file": "portrait/hermit.png"
+ },
+ "portrait/dwarven_tradesman.png": {
+  "src": "second/1503034353-cec9fd93ac6a0b2386785055b6664d67.jpg",
+  "circle": [
+   68,
+   67,
+   37
+  ],
+  "method": "circle",
+  "file": "portrait/dwarven_tradesman.png"
+ },
+ "portrait/prisoner1.png": {
+  "src": "second/1503034365-7b119ebd3c8134baed473bec5de1b165.jpg",
+  "circle": [
+   67,
+   61,
+   37
+  ],
+  "method": "circle",
+  "file": "portrait/prisoner1.png"
+ },
+ "building/shack.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   149,
+   179
+  ],
+  "file": "building/shack.png"
+ },
+ "building/cabin.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   191,
+   194
+  ],
+  "file": "building/cabin.png"
+ },
+ "building/cottage.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   154,
+   203
+  ],
+  "file": "building/cottage.png"
+ },
+ "building/village.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   250,
+   219
+  ],
+  "file": "building/village.png"
+ },
+ "building/manor.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   268,
+   216
+  ],
+  "file": "building/manor.png"
+ },
+ "building/chateau.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   362,
+   263
+  ],
+  "file": "building/chateau.png"
+ },
+ "building/armorsmith.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   232,
+   222
+  ],
+  "file": "building/armorsmith.png"
+ },
+ "building/workshop.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   186,
+   192
+  ],
+  "file": "building/workshop.png"
+ },
+ "building/lumber_mill.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   242,
+   196
+  ],
+  "file": "building/lumber_mill.png"
+ },
+ "building/stone_quarry.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   231,
+   121
+  ],
+  "file": "building/stone_quarry.png"
+ },
+ "building/tavern.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   252,
+   238
+  ],
+  "file": "building/tavern.png"
+ },
+ "building/alchemist.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   169,
+   196
+  ],
+  "file": "building/alchemist.png"
+ },
+ "building/tailor.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   165,
+   192
+  ],
+  "file": "building/tailor.png"
+ },
+ "building/mystical_forge.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   260,
+   218
+  ],
+  "file": "building/mystical_forge.png"
+ },
+ "building/portal.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   293,
+   152
+  ],
+  "file": "building/portal.png"
+ },
+ "building/foundation.png": {
+  "method": "composite of original art (re-painted)",
+  "size": [
+   203,
+   143
+  ],
+  "file": "building/foundation.png"
+ }
+}
